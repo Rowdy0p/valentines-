@@ -6,9 +6,9 @@ const WhyMe = () => {
   const navigate = useNavigate();
 
   const whyMeReasons = [
-    { icon: "🫂", title: "I'm your kuchupuchu", desc: "Best partner you could have!" },
-    { icon: "🎵", title: "My music taste is best", desc: "I can sing all your favorite songs" },
-    { icon: "🤗", title: "I'm never gonna stop irritating you", desc: "aja bhidle" },
+    { icon: "🫂", title: "I'm your lil darling boy", desc: "Best boyfriend you could have!" },
+    { icon: "🎵", title: "My music taste is the best", desc: "I can sing all your favorite songs" },
+    { icon: "🤗", title: "I'm never gonna stop annoying you", desc: "'I will slap you'" },
     { icon: "💝", title: "I Will Take Care of You", desc: "Like always" }
   ];
 
