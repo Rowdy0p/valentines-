@@ -58,9 +58,9 @@ const Qualities = () => {
   const navigate = useNavigate();
 
   const qualities = [
-    { icon: "🌞", title: "Your Sunday Smile", desc: "Makes my day shine" },
-    { icon: "😂", title: "Your Humor", desc: "Laughs at my bad jokes" },
-    { icon: "🎵", title: "Your Sweet Voice", desc: "Perfect singing buddy" },
+    { icon: "🌞", title: "Your Sunday Smile", desc: "Makes my day Shine" },
+    { icon: "😂", title: "Your Humor", desc: "You're not funny" },
+    { icon: "🎵", title: "Your Sweet Voice", desc: "Brings Comfort and Calm" },
     { icon: "🥺", title: "Your Goodness", desc: "Your kind heart melts mine" },
     { icon: "✨", title: "Your Eyes", desc: "They speak volumes" },
     { icon: "💫", title: "Everything About You", desc: "Just perfect as you are" },
