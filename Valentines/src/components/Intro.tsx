@@ -85,7 +85,7 @@ const Intro = () => {
           Hey Madam Ji, Will You Be My Valentine?
         </h1>
         <h2 className="text-lg sm:text-xl text-pink-400 font-semibold animate-pulse">
-          Let's go to japan or ladakh maybe?
+          Let's go to New York or Dubai maybe?
         </h2>
         <div className="flex flex-col sm:flex-row justify-center gap-4">
           <button
