@@ -1,7 +1,7 @@
 import React, { useState, useRef } from 'react';
 import { Sparkles, Music } from 'lucide-react';
 import { useNavigate } from 'react-router-dom';
-import musicc from '../music/music.mp3';
+import musicc from '../music/musicc.mp3';
 
 // Helper function for random numbers
 const random = (min, max) => Math.floor(Math.random() * (max - min + 1)) + min;
@@ -103,7 +103,7 @@ const Intro = () => {
         </div>
       </div>
 
-      <audio ref={audioRef} src={music} />
+      <audio ref={audioRef} src={musicc} />
 
       {/* Inline CSS for keyframe animations */}
       <style>{`
