@@ -82,7 +82,7 @@ const Intro = () => {
       <div className="relative z-10 bg-white/60 backdrop-blur-lg rounded-2xl p-6 sm:p-10 shadow-2xl border border-white/20 text-center space-y-6 animate-fade-in max-w-xl mx-auto">
         <Sparkles className="w-14 h-14 text-pink-500 mx-auto animate-bounce" />
         <h1 className="text-3xl sm:text-4xl font-extrabold bg-gradient-to-r from-[#ff7b8f] to-[#ff178b] text-transparent bg-clip-text">
-          Hey Madam Ji, Will You Be My Valentine?
+          Hey Samriddhi!! Will You Be My Valentine?
         </h1>
         <h2 className="text-lg sm:text-xl text-pink-400 font-semibold animate-pulse">
           Let's go to New York or Dubai maybe?
