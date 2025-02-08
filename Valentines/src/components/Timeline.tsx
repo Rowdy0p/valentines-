@@ -6,10 +6,10 @@ const Timeline = () => {
   const navigate = useNavigate();
 
   const timelineEvents = [
-    { icon: "🌟", title: "Starting From Here", desc: "You know very well, you texted me" },
-    { icon: "💌", title: "We talked", desc: "We started talking and the connection was instant" },
-    { icon: "🎵", title: "I Enjoyed talking to you", desc: "You have an amazing music taste, by the way" },
-    { icon: "✨", title: "To be continued...", desc: "Our story is just beginning" }
+    { icon: "🌟", title: "Starting From Here", desc: "We know very well, you texted me first" },
+    { icon: "💌", title: "We Spoke", desc: "We knew there was something and then I asked you out!" },
+    { icon: "🎵", title: "I Enjoyed our Jams", desc: "You have an amazing music taste, by the way" },
+    { icon: "✨", title: "To be continued...", desc: "Can't wait to see how the next pages unfold" }
   ];
 
   useEffect(() => {
@@ -19,7 +19,7 @@ const Timeline = () => {
   return (
     <div className="min-h-screen px-4 sm:px-8 md:px-10 py-10 bg-white animate-fade-in">
       <h2 className="text-3xl sm:text-4xl font-bold text-center mb-10 text-[#FF6F6F]">
-        📖 Our Story
+        📖 Our Story Till Now 
       </h2>
       <div
         className="relative w-full max-w-4xl mx-auto p-8 rounded-2xl shadow-2xl"
