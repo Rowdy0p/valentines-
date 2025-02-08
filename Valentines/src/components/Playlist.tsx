@@ -3,7 +3,7 @@ import React, { useRef, useState } from 'react';
 import { Heart } from 'lucide-react';
 
 // Import two local songs
-import song1 from '../music/musicc.mp3';
+import song1 from '../music/music.mp3';
 import song2 from '../music/perfect.mp3';
 
 const Playlist = () => {
