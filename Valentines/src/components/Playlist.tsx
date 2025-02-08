@@ -84,7 +84,7 @@ const Playlist = () => {
 
         <div className="text-center mt-16">
           <p className="text-xl font-medium text-white inline-flex items-center gap-2">
-            Made with <Heart className="w-6 h-6 text-white animate-pulse" /> For You!
+            Made with <Heart className="w-6 h-6 text-white animate-pulse" /> \I'm waiting for you on WhatsApp, please say yes! I Love You!
           </p>
         </div>
       </div>
